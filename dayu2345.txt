@@ -1,0 +1,5 @@
+LinkName1=大鱼网
+LinkURL1=https://www.example.com
+LinkName2=大鱼友情
+LinkURL2=https://docs.example.com
+LinkURL3=https://www.example.com/dayu8

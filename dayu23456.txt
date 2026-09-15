@@ -1,5 +1,0 @@
-链接名字1=666
-链接地址1=https://www.example.com
-链接名字2=777
-链接地址2=https://docs.example.com
-链接地址3=https://www.example.com/thanks
