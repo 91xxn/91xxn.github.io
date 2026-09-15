@@ -1,0 +1,5 @@
+链接名字1=官方网站
+链接地址1=https://www.example.com
+链接名字2=帮助文档
+链接地址2=https://docs.example.com
+链接地址3=https://www.example.com/thanks
